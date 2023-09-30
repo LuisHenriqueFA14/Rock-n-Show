@@ -58,3 +58,81 @@ header {
 #search_bar input:focus {
     outline: none;
 }
+
+#text {
+    margin-left: 3rem;
+    margin-top: 7rem;
+    font-weight: 800;
+    font-size: 3rem;
+    color: #363537;
+}
+
+#bands {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    flex-wrap: wrap;
+    gap: 8rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+}
+
+.band {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+.band-image {
+    object-fit: cover;
+    width: 100%;
+    height: 138px;
+
+    border-radius: 10px 10px 0 0;
+}
+
+.band h1 {
+    margin: 0;
+    padding: 0;
+
+    margin-left: 1rem;
+    margin-top: 1rem;
+
+    color: #1E1E1E;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.band h2 {
+    margin: 0;
+    padding: 0;
+
+    margin-left: 1rem;
+
+    color: #1E1E1E;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+.band a {
+    text-decoration: none;
+    background-color: #FD715E;
+    color: white;
+    width: 60%;
+    padding: 10px;
+    border-radius: 10px;
+
+    margin-top: 2rem;
+    margin-left: 2.5rem;
+    text-align: center;
+
+    font-weight: 600;
+    font-size: 14px;
+}
