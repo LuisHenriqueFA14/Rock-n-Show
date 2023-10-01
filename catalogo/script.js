@@ -1,32 +1,53 @@
-function renderCatalog(data) {
-    data.forEach((band) => {
-        let div = document.createElement('div');
-        div.classList.add('band');
+let bands = {}
 
-        let image = document.createElement('img');
-        image.src = `../assets/bands/${band.code}/capa.jpg`;
-        image.alt = band.name;
-        image.classList.add('band-image');
+function divByData(data) {
+    let div = document.createElement('div')
+    div.classList.add('band')
 
-        let bandName = document.createElement('h1');
-        bandName.innerText = band.name;
+    let image = document.createElement('img')
+    image.src = `../assets/bands/${data.code}/capa.jpg`
+    image.alt = data.name
+    image.classList.add('band-image')
 
-        let bandDate = document.createElement('h2');
-        bandDate.innerText = band.date; 
+    let bandName = document.createElement('h1')
+    bandName.innerText = data.name
 
-        let bandLink = document.createElement('a');
-        bandLink.href = `/about/${band.code}`;
-        bandLink.innerText = 'Saiba mais!';
+    let bandDate = document.createElement('h2')
+    bandDate.innerText = data.date
 
-        div.appendChild(image);
-        div.appendChild(bandName);
-        div.appendChild(bandDate);
-        div.appendChild(bandLink);
+    let bandLink = document.createElement('a')
+    bandLink.href = `/about/${data.code}`
+    bandLink.innerText = 'Saiba mais!'
 
-        document.querySelector('#bands').appendChild(div);
+    div.appendChild(image)
+    div.appendChild(bandName)
+    div.appendChild(bandDate)
+    div.appendChild(bandLink)
+
+    return div
+}
+
+function renderCatalog() {
+    bands.forEach((band) => {
+        document.querySelector('#bands').appendChild(divByData(band))
     })
 }
 
+document.getElementById('search').addEventListener('input', () => {
+    const value = document.querySelector('#search').value
+
+    document.querySelector('#bands').innerHTML = ''
+
+    bands.forEach((band) => {
+        if (band.name.toLowerCase().includes(value.toLowerCase())) {
+            document.querySelector('#bands').appendChild(divByData(band))
+        }
+    })
+})
+
 fetch('../database.json')
     .then((response) => response.json())
-    .then((data) => renderCatalog(data));
+    .then((data) => {
+        bands = data
+        renderCatalog()
+    })
