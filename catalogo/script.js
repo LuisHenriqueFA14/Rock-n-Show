@@ -16,7 +16,7 @@ function divByData(data) {
     bandDate.innerText = data.date
 
     let bandLink = document.createElement('a')
-    bandLink.href = `/about/${data.code}`
+    bandLink.href = `/sobre/?b=${data.code}`
     bandLink.innerText = 'Saiba mais!'
 
     div.appendChild(image)

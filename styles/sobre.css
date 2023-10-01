@@ -1,0 +1,37 @@
+html {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    position: fixed;
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background-color: #FD715E;
+    padding: 0.5rem 0;
+
+    flex-direction: row;
+}
+
+#logo {
+    display: flex;
+    align-items: left;
+
+    padding-left: 1rem;
+}
+
+#logo img {
+    width: 37%;
+}
+
+#logo a {
+    margin: 0;
+    padding: 0;
+}
+
+#band {
+    margin-top: 6em;
+    margin-left: 2em;
+}
