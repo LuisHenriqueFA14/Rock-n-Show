@@ -16,14 +16,13 @@ header {
 }
 
 #logo {
-    display: flex;
-    align-items: left;
-
     padding-left: 1rem;
+
+    float: left;
 }
 
 #logo img {
-    width: 37%;
+    width: 130px;
 }
 
 #logo a {
