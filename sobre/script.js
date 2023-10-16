@@ -2,6 +2,12 @@ const urlParams = new URLSearchParams(window.location.search);
 const bandCode = urlParams.get('b');
 
 function renderBandInfo(data) {
+    let info = document.createElement('div')
+
+    info.id = 'info'
+
+    info.appendChild(document.createElement('img')).src = `../assets/bands/${data.code}/capa.jpg`
+
     let div = document.createElement('div')
 
     div.appendChild(document.createElement('h1')).innerText = data.name
@@ -11,10 +17,24 @@ function renderBandInfo(data) {
     div.appendChild(document.createElement('p')).innerText = `Abertura dos portões: ${data.time}`
     div.appendChild(document.createElement('p')).innerText = `Classificação indicativa: ${data.age} anos`
 
-    div.appendChild(document.createElement('h1')).innerText = `Sobre a banda:`
+    info.appendChild(div)
+
+    document.querySelector('#band').appendChild(info)
+
+    let about = document.createElement('div')
+
+    about.id = 'about'
+
+    div = document.createElement('div')
+
+    div.appendChild(document.createElement('h1')).innerText = `Sobre`
     div.appendChild(document.createElement('p')).innerText = data.about
 
-    document.querySelector('#band').appendChild(div)
+    about.appendChild(div)
+
+    about.appendChild(document.createElement('img')).src = `../assets/bands/${data.code}/foto.jpg`
+
+    document.querySelector('#band').appendChild(about)
 }
 
 function renderError() {
