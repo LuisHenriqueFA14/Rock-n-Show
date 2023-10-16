@@ -4,7 +4,7 @@
         "code": "gunsnroses",
         "date": "15/01/2024",
         "place": "Allianz Parque",
-        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca (SP)",
+        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "19:00",
         "age": 14,
         "about": "Guns N' Roses é uma banda norte-americana de hard rock formada em Los Angeles, Califórnia, em 1985. A banda vendeu mais de 100 milhões de cópias em todo o mundo, sendo cerca de 43 milhões somente nos Estados Unidos. O seu álbum de estreia lançado em 1987, Appetite for Destruction, vendeu cerca de 33 milhões de cópias no mundo todo, sendo certificado 18 vezes platina pela RIAA (Associação da Indústria de Gravação da América), se tornando o álbum de estreia mais vendido da história da música."
@@ -14,7 +14,7 @@
         "code": "ironmaiden",
         "date": "12/12/2023",
         "place": "Allianz Parque",
-        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca (SP)",
+        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "19:00",
         "age": 16,
         "about": "Iron Maiden é uma banda inglesa de heavy metal formada em Leyton, East London, em 1975 pelo baixista e compositor Steve Harris. Com cinco décadas de existência, a banda veio a ser uma das mais bem sucedidas da história do heavy metal, tendo vendido mais de 100 milhões de álbuns mundialmente. A banda atingiu êxito substancial no início dos anos 1980, acompanhada de uma crescente base de fãs, mas foi com o disco The Number of the Beast, de 1982, que o Iron Maiden chegou à fama internacional."
@@ -24,7 +24,7 @@
         "code": "metallica",
         "date": "28/03/2023",
         "place": "Allianz Parque",
-        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca (SP)",
+        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "18:00",
         "age": 14,
         "about": "Metallica é uma banda norte-americana de heavy metal originária de Los Angeles. O seu repertório é marcado por instrumentais e musicalidade agressiva, a qual os consagrou como pioneiros do thrash metal. A sua formação atual apresenta o baterista fundador Lars Ulrich, e o também fundador, vocalista e guitarrista rítmico James Hetfield, além do guitarrista solo Kirk Hammett e o baixista Robert Trujillo. Antes de chegarem à sua formação atual, a banda teve outros integrantes, sendo eles: Dave Mustaine (guitarra), Ron McGovney, Cliff Burton e Jason Newsted (baixo)."
@@ -34,7 +34,7 @@
         "code": "acdc",
         "date": "13/12/2023",
         "place": "Espaço Unimed",
-        "address": "Rua Tagipuru, 795 - Barra Funda (SP)",
+        "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
         "time": "18:00",
         "age": 16,
         "about": "AC/DC é uma banda australiana de rock formada em Sydney, Austrália em 1973, pelos irmãos escoceses Malcolm e Angus Young. O estilo musical da banda é normalmente classificado como hard rock e até mesmo blues rock. Mas seus membros sempre classificaram a sua música simplesmente como rock and roll. O vocalista e co-compositor Bon Scott morreu em 19 de fevereiro de 1980. O grupo considerou por algum tempo a separação, mas rapidamente o ex-vocalista dos Geordie, Brian Johnson, foi selecionado para o lugar de Scott. Mais tarde nesse ano, a banda lançou o seu álbum mais vendido, Back in Black."
@@ -44,7 +44,7 @@
         "code": "ledzeppelin",
         "date": "10/01/2024",
         "place": "Autódromo José Carlos Pace",
-        "address": "Avenida Senador Teotonio Vilela, 261 - São Paulo (SP)",
+        "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
         "time": "10:00",
         "age": 14,
         "about": "Led Zeppelin foi uma banda britânica de rock formada em Londres, em 1968. Consistia no guitarrista Jimmy Page, no vocalista Robert Plant, no baixista e tecladista John Paul Jones e no baterista John Bonham. Seu som pesado e violento de guitarra, enraizado no blues e música psicodélica de seus dois primeiros álbuns, é frequentemente reconhecido como um dos fundadores do heavy metal. Depois de mudar seu antigo nome de New Yardbirds, o Led Zeppelin assinou um contrato favorável com a Atlantic Records, que lhes ofereceu uma considerável liberdade artística."
@@ -54,7 +54,7 @@
         "code": "deeppurple",
         "date": "28/01/2024",
         "place": "Espaço Unimed",
-        "address": "Rua Tagipuru, 795 - Barra Funda (SP)",
+        "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
         "time": "16:00",
         "age": 14,
         "about": "Deep Purple é uma banda britânica de rock formada em Londres, em 1968, que é considerada uma das pioneiras do heavy metal e do hard rock moderno. A banda passou por diversas mudanças de formação, além de um hiato de oito anos. Sua segunda formação, a mais bem-sucedida comercialmente, contou com Ian Gillan (vocal), Ritchie Blackmore (guitarra), Jon Lord (teclado), Roger Glover (baixo) e Ian Paice (bateria). Os membros entraram em alguns atritos e mudaram seus integrantes. A formação atual é composta por Paice, Gillan, Glover, o guitarrista Steve Morse e o tecladista Don Airey."
@@ -64,7 +64,7 @@
         "code": "slipknot",
         "date": "12/04/2024",
         "place": "Allianz Parque",
-        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca (SP)",
+        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "19:00",
         "age": 16,
         "about": "Slipknot é uma banda norte-americana de meta formada em Des Moines, Iowa, em 1995. Seu estilo musical é o nu metal, que explodiu no fim dos anos 1990 nos Estados Unidos. A banda é conhecida por seu grande número de integrantes, pelas máscaras usadas por cada um, e pelos shows enérgicos, o que garantiu um número grande de fãs jovens até os dias atuais."
@@ -74,9 +74,69 @@
         "code": "kiss",
         "date": "17/05/2024",
         "place": "Allianz Parque",
-        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca (SP)",
+        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "14:00",
         "age": 12,
         "about": "Kiss é uma banda de hard rock dos Estados Unidos, formada em Nova Iorque em 1973 por Paul Stanley e Gene Simmons. Conhecida mundialmente por suas maquiagens e shows extravagantes. Antes de chegarem à sua formação atual, a banda passou por algumas mudanças, sendo Stanley e Simmons os dois últimos integrantes da formação original da banda."
+    },
+    {
+        "name": "Megadeth",
+        "code": "megadeth",
+        "date": "28/04/2024",
+        "place": "Autódromo Interlagos",
+        "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
+        "time": "20:00",
+        "age": 18,
+        "about": "Megadeth é uma banda norte-americana de Thrash metal liderada por seu fundador, o vocalista e guitarrista Dave Mustaine. O grupo foi formado em 11 de abril de 1983, após Dave ser demitido do Metallica. Desde então, a banda lançou quinze álbuns de estúdio, quatro álbuns ao vivo, dois EP e cinco compilações."
+    },
+    {
+        "name": "Rush",
+        "code": "rush",
+        "date": "15/11/2023",
+        "place": "Autódromo Interlagos",
+        "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
+        "time": "18:00",
+        "age": 14,
+        "about": "Rush foi uma banda canadense de rock formada em agosto de 1968 na cidade de Toronto, Ontário. A banda era composta pelo baixista, tecladista e vocalista principal Geddy Lee, pelo guitarrista e backing vocal Alex Lifeson e pelo baterista John Rutsey. A banda tornou-se conhecida pelas habilidades instrumentais de seus membros, as composições extremamente complexas e as letras ecléticas."
+    },
+    {
+        "name": "Black Sabbath",
+        "code": "blacksabbath",
+        "date": "12/04/2024",
+        "place": "Allianz Parque",
+        "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
+        "time": "20:00",
+        "age": 16,
+        "about": "Black Sabbath foi uma banda de heavy metal britânica formada no ano de 1968 em Birmingham pelo guitarrista e principal compositor Tony Iommi, o baixista e principal letrista Geezer Butler, o vocalista Ozzy Osbourne e o baterista Bill Ward."
+    },
+    {
+        "name": "Dire Straits",
+        "code": "direstraits",
+        "date": "08/05/2024",
+        "place": "Autódromo Interlagos",
+        "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
+        "time": "16:00",
+        "age": 12,
+        "about": "Dire Straits foi uma banda de rock britânica formada em 1977 por Mark Knopfler (guitarra e vocais), seu irmão David Knopfler (guitarra), John Illsley (baixo) e Pick Withers (bateria). Embora formada em uma época em que o punk rock reinava absoluto, decidiram lidar com as convenções do rock clássico."
+    },
+    {
+        "name": "Alice Cooper",
+        "code": "alicecooper",
+        "date": "25/01/2024",
+        "place": "Espaço Unimed",
+        "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
+        "time": "22:00",
+        "age": 14,
+        "about": "Alice Cooper, nome artístico de Vincent Damon Furnier, é um cantor, compositor e ator americano. Ficou mundialmente conhecido nos anos 1970 por seus shows de rock inovadores e designados para chocar e provocar o público, junto com letras obscenas, obscuras e sangrentas que, junto com seu visual gótico, transformaram Alice em um ícone do rock que continua como fonte de inspirações para artistas de todos os estilos até hoje."
+    },
+    {
+        "name": "System of a Down",
+        "code": "systemofadown",
+        "date": "23/03/2024",
+        "place": "Espaço Unimed",
+        "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
+        "time": "20:00",
+        "age": 16,
+        "about": "System of a Down é uma banda de metal alternativo armeno-americana formada em Glendale, Califórnia em 1994. É composta por Serj Tankian (vocais, teclados, guitarra), Daron Malakian (guitarra, vocais), Shavo Odadjian (baixo, vocais) e John Dolmayan (bateria). O grupo é conhecido pelas visões políticas e sociais que inserem nas letras de suas canções."
     }
 ]
