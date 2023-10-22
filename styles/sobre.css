@@ -90,4 +90,5 @@ header {
 
     margin-right: 20px;
     width: 65%;
+    max-height: 400px;
 }
