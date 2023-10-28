@@ -92,3 +92,24 @@ header {
     width: 65%;
     max-height: 400px;
 }
+
+#show {
+    margin-top: 80px;
+}
+
+#show h1 {
+    margin: 0;
+    font-weight: 800;
+    color: #363537;
+}
+
+#show iframe {
+    margin-top: 20px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 60%;
+    height: 420px;
+    margin-bottom: 80px;
+}

@@ -35,6 +35,21 @@ function renderBandInfo(data) {
     about.appendChild(document.createElement('img')).src = `../assets/bands/${data.code}/foto.jpg`
 
     document.querySelector('#band').appendChild(about)
+
+    let show = document.createElement('div')
+
+    show.id = 'show'
+
+    show.appendChild(document.createElement('h1')).innerText = `Show`
+
+    let iframe = document.createElement('iframe')
+    iframe.src = data.youtube
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+    iframe.allowFullscreen = true
+
+    show.appendChild(iframe)
+
+    document.querySelector('#band').appendChild(show)
 }
 
 function renderError() {
