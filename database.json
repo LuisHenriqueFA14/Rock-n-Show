@@ -2,7 +2,7 @@
     {
         "name": "Guns N' Roses",
         "code": "gunsnroses",
-        "date": "15/01/2024",
+        "date": "31/01/2024",
         "place": "Allianz Parque",
         "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "19:00",
@@ -13,7 +13,7 @@
     {
         "name": "Iron Maiden",
         "code": "ironmaiden",
-        "date": "12/12/2023",
+        "date": "14/02/2024",
         "place": "Allianz Parque",
         "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "19:00",
@@ -24,7 +24,7 @@
     {
         "name": "Metallica",
         "code": "metallica",
-        "date": "28/03/2023",
+        "date": "25/02/2024",
         "place": "Allianz Parque",
         "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "18:00",
@@ -35,7 +35,7 @@
     {
         "name": "AC/DC",
         "code": "acdc",
-        "date": "13/12/2023",
+        "date": "12/04/2024",
         "place": "Espaço Unimed",
         "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
         "time": "18:00",
@@ -46,7 +46,7 @@
     {
         "name": "Led Zeppelin",
         "code": "ledzeppelin",
-        "date": "10/01/2024",
+        "date": "15/05/2024",
         "place": "Autódromo José Carlos Pace",
         "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
         "time": "10:00",
@@ -57,7 +57,7 @@
     {
         "name": "Deep Purple",
         "code": "deeppurple",
-        "date": "28/01/2024",
+        "date": "21/05/2024",
         "place": "Espaço Unimed",
         "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
         "time": "16:00",
@@ -68,7 +68,7 @@
     {
         "name": "Slipknot",
         "code": "slipknot",
-        "date": "12/04/2024",
+        "date": "10/06/2024",
         "place": "Allianz Parque",
         "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "19:00",
@@ -79,7 +79,7 @@
     {
         "name": "Kiss",
         "code": "kiss",
-        "date": "17/05/2024",
+        "date": "29/06/2024",
         "place": "Allianz Parque",
         "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "14:00",
@@ -90,7 +90,7 @@
     {
         "name": "Megadeth",
         "code": "megadeth",
-        "date": "28/04/2024",
+        "date": "28/07/2024",
         "place": "Autódromo Interlagos",
         "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
         "time": "20:00",
@@ -101,7 +101,7 @@
     {
         "name": "Rush",
         "code": "rush",
-        "date": "15/11/2023",
+        "date": "12/12/2024",
         "place": "Autódromo Interlagos",
         "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
         "time": "18:00",
@@ -112,7 +112,7 @@
     {
         "name": "Black Sabbath",
         "code": "blacksabbath",
-        "date": "12/04/2024",
+        "date": "26/01/2025",
         "place": "Allianz Parque",
         "address": "Avenida Francisco Matarazzo, 1705 - Água Branca, São Paulo (SP)",
         "time": "20:00",
@@ -123,7 +123,7 @@
     {
         "name": "Dire Straits",
         "code": "direstraits",
-        "date": "08/05/2024",
+        "date": "12/02/2025",
         "place": "Autódromo Interlagos",
         "address": "Avenida Senador Teotônio Vilela, 261 - Interlagos, São Paulo (SP)",
         "time": "16:00",
@@ -134,7 +134,7 @@
     {
         "name": "Alice Cooper",
         "code": "alicecooper",
-        "date": "25/01/2024",
+        "date": "18/02/2025",
         "place": "Espaço Unimed",
         "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
         "time": "22:00",
@@ -145,7 +145,7 @@
     {
         "name": "System of a Down",
         "code": "systemofadown",
-        "date": "23/03/2024",
+        "date": "23/03/2025",
         "place": "Espaço Unimed",
         "address": "Rua Tagipuru, 795 - Barra Funda, São Paulo (SP)",
         "time": "20:00",
